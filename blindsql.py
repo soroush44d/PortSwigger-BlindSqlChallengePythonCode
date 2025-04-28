@@ -4,13 +4,13 @@ url1 = 'https://0a1400c7048a67fe8588802400360066.web-security-academy.net/'
 session = requests.Session()
 org_track_id = "gahfNcfi9J7wH9rg"
 char_set = "abcdefghijklmnopqrstuvwxyz0123456789"
-session = "R15Nw67GSmqHscP9aJ8vPv14XVZ7ACY2"
+session2 = "R15Nw67GSmqHscP9aJ8vPv14XVZ7ACY2"
 min_pass_length = 1
 max_pass_length = 50
 
 cookies = {
     'TrackingId': org_track_id,
-    'session': session
+    'session': session2
 }
 
 
